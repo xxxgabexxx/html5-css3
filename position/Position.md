@@ -1,2 +1,0 @@
-![image](position-pdf.pdf)
-
