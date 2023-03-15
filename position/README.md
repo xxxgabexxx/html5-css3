@@ -29,7 +29,9 @@ Um elemento com **posição: absolute;** é posicionado em relação ao ancestra
 No entanto; se um elemento posicionado absoluto não tiver ancestrais posicionados, ele usará o corpo do documento e se moverá junto com a rolagem da página.
 
 Nota: Elementos posicionados absolutos são removidos do fluxo normal e podem sobrepor elementos.
-Fixed / fixo
+
+## **Fixed / Fixo**
+
 Um elemento com **posição: fixed;** está posicionado em relação à viewport, o que significa que sempre permanece no mesmo lugar, mesmo que a página seja rolada. As propriedades superior, direita, inferior e esquerda são usadas para posicionar o elemento.
 
 Um elemento fixo não deixa uma lacuna na página onde normalmente estaria localizado.
