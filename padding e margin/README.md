@@ -1,6 +1,6 @@
 ## Qual a diferença entre Padding e Margin?
 
-![[Pasted image 20230318122132.jpg]]
+![image](https://user-images.githubusercontent.com/103377845/226115464-dfb5bef5-8d15-47b4-8d00-7eecf15f1804.png)
 
 Esse é um assunto que causa um pouco de confução em quem esta começando a estudar CSS.
 
@@ -17,7 +17,8 @@ Explicando a imagem:
 ________________________________________________________________
 
 
-![[Pasted image 20230318122529.jpg]]
+![image](https://user-images.githubusercontent.com/103377845/226115506-aaa9d193-41a5-46be-baea-3e31939d26b3.png)
+
 
 O **preenchimento** pode ser definido como zero pixels e acima. **Ele pode alterar o tamanho de seu próprio elemento e afetar o quanto de uma cor de preenchimento ou imagem de plano de fundo é visível dentro de uma caixa.**
 
