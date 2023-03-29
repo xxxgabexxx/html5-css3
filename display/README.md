@@ -4,7 +4,7 @@ Entender a propriedade `display` é fundamental para que possamos compreender 
 
 A propriedade `display` especifica o comportamento de exibição (o tipo de caixa de renderização) de um elemento.
 
-Formalmente, a propriedade **`display`** define os _tipos de exibição_ internos e externos de um elemento. O tipo externo define a participação de um elemento no [layout de fluxo (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout "Currently only available in English (US)"); o tipo interno define o layout dos filhos. Alguns valores de `display` são totalmente definidos em suas próprias especificações individuais; por exemplo, o detalhe do que acontece quando `display: flex` é declarado é definido na especificação CSS Flexible Box Model.
+Formalmente, a propriedade **`display`** define os _tipos de exibição_ internos e externos de um elemento. O tipo externo define a participação de um elemento no [layout de fluxo](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout "Currently only available in English (US)"); o tipo interno define o layout dos filhos. Alguns valores de `display` são totalmente definidos em suas próprias especificações individuais; por exemplo, o detalhe do que acontece quando `display: flex` é declarado é definido na especificação CSS Flexible Box Model.
 
 Alguns estão listados em seguida :
 
